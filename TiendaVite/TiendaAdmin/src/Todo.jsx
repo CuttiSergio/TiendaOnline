@@ -34,6 +34,9 @@ function Todo({ cambiarVista }) {
       funcionalidades: [
         { nombre: "Listado de Categorías (Admin)", vista: "categorias" },
         { nombre: "Detalle de orden (usuario)", vista: "detalle-orden" },
+        { nombre: "CambiarContrasena", vista: "CambiarContrasena" },
+        { nombre: "Detalle de orden (usuario)", vista: "detalle-orden" },
+        { nombre: "Detalle de orden (usuario)", vista: "detalle-orden" },
       ],
     },
     {
