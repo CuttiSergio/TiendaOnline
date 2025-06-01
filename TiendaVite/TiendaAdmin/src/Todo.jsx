@@ -35,7 +35,7 @@ function Todo({ cambiarVista }) {
         { nombre: "Listado de Categorías (Admin)", vista: "categorias" },
         { nombre: "Detalle de orden (usuario)", vista: "detalle-orden" },
         { nombre: "CambiarContrasena", vista: "CambiarContrasena" },
-        { nombre: "Agregar Categoría", vista: "AgregarCategoría" },
+        { nombre: "AgregarCategoría", vista: "AgregarCategoría" },
         { nombre: "Detalle de orden (usuario)", vista: "detalle-orden" },
       ],
     },
