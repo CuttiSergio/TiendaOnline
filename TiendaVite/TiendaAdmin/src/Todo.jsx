@@ -36,7 +36,7 @@ function Todo({ cambiarVista }) {
         { nombre: "Detalle de orden (usuario)", vista: "detalle-orden" },
         { nombre: "CambiarContrasena", vista: "CambiarContrasena" },
         { nombre: "AgregarCategoría", vista: "AgregarCategoría" },
-        { nombre: "Detalle de orden (usuario)", vista: "detalle-orden" },
+        { nombre: "Detalle de orden ", vista: "detalle-orden" },
       ],
     },
     {
