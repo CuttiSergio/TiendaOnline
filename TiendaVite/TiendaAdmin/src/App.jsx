@@ -74,6 +74,8 @@ function App() {
       {vistaActual === 'DesProducto' && <ProductoEspecifico cambiarVista={cambiarVista} />}
       {vistaActual === 'CambiarContrasena' && <CambiarContrasena cambiarVista={cambiarVista} />}
       {vistaActual === 'AgregarCategoria' && <AgregarCategoria cambiarVista={cambiarVista} />}
+      {vistaActual === 'DatosRegistroUsuario' && <atosRegistroUsuario cambiarVista={cambiarVista} />}
+      
       <Footer/>
     </>
     
