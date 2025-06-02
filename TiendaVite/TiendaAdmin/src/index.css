@@ -7,7 +7,7 @@ body {
 }
 
 /* ---------- ENCABEZADO SUPERIOR ---------- */
-.header-superior{
+.header-superior {
   display: flex;
   justify-content: space-between;
   align-items: center;
